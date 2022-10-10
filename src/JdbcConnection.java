@@ -32,6 +32,10 @@ public class JdbcConnection {
 		driver.findElement(By.id("username")).sendKeys(rs.getString("username"));
 		
 		driver.findElement(By.id("password")).sendKeys(rs.getString("password"));
+		System.out.println("rahulshetty.com");
+		System.out.println("rahulshetty.com");
+		System.out.println("rahulshetty.com");
+		System.out.println("rahulshetty.com");
 		//System.out.println(rs.getString("password"));
 		}
 		
