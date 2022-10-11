@@ -71,12 +71,7 @@ driver.get("https://login.salesforce.com");
 
 		System.out.println("rahu");
 		System.out.println("122");
-<<<<<<< HEAD
-		System.out.println("rahu");
-		System.out.println("122");
-=======
->>>>>>> ab87e4e30d6cd59f50637e3861d5450560bc9177
-		
+
 
 
 		//System.out.println(rs.getString("password"));
