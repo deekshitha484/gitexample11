@@ -46,18 +46,15 @@ public class JdbcConnection {
 		System.out.println("rahulshetty.com");
 		System.out.println("rahu");
 		System.out.println("rahulshetty.com");
-<<<<<<< HEAD
-		System.out.println("rahu");
-		System.out.println("rahu");
-		
-=======
+
+
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty");
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
 
->>>>>>> 90ea5af1c4d6a16f7b36ad2aa17c57ea2a70360d
+
 		//System.out.println(rs.getString("password"));
 		}
 		
