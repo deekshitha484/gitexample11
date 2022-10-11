@@ -41,10 +41,7 @@ driver.get("https://login.salesforce.com");
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
 		//System.out.println(rs.getString("password"));
-		System.out.println("1");
-		System.out.println("2");
-		System.out.println("3");
-		}
+	
 		
 				
 				
