@@ -27,29 +27,62 @@ public class JdbcConnection {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\navan\\Downloads\\chromedriver_win32 (1)\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
-		
 driver.get("https://login.salesforce.com");
 		
 		driver.findElement(By.id("username")).sendKeys(rs.getString("username"));
 		
 		driver.findElement(By.id("password")).sendKeys(rs.getString("password"));
 		System.out.println("rahulshetty.com");
+
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
+
+
 		System.out.println("rahulshetty.com");
 		System.out.println("rahulshetty.com");
-		System.out.println("rahulshetty.comjg");
-		System.out.println("1");
-		System.out.println("2");
-		System.out.println("3");
-		}
+		System.out.println("rahulshetty.com");
+		System.out.println("rahulshetty");
+		System.out.println("rahulshetty.com");
+		System.out.println("rahulshetty.com");
+
+
+		System.out.println("rahu");
+
+		System.out.println("rahulshetty.com");
+		System.out.println("rahu");
+		System.out.println("rahu");
+
+		System.out.println("rahulshetty.com");
+		System.out.println("rahu");
+
+		System.out.println("rahu");
+		
+		System.out.println("rahu");
+
+		System.out.println("rahulshetty.com");
+		System.out.println("rahu");
+		System.out.println("rahu");
+
+		System.out.println("rahulshetty.com");
+		System.out.println("rahu");
+
+		System.out.println("rahu");
+		System.out.println("122");
+		System.out.println("rahu");
+		System.out.println("122");
+		
+
+
+		//System.out.println(rs.getString("password"));
+	
 		
 				
 				
 
 	}
 
+	}
 }
